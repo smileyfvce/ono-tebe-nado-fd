@@ -273,7 +273,7 @@ a {
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  padding: 181px 50px 0px 51px;
+  padding: 181px 50px 82px 51px;
 }
 
 .footer__menu-list {
